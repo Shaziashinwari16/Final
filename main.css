@@ -5,10 +5,7 @@
 }
 
 header{
-background-image: url(....../img/outfit.jpg);
-height: 100px;
- background-size: cover;
- background-position: center
+background-color: gray
 }
 
 ul{
